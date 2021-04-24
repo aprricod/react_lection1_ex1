@@ -1,0 +1,25 @@
+{
+  "name": "react_task1_ex1_work",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprricod/react_task1_ex1_work.git"
+  },
+  "keywords": [
+    "js",
+    "simple",
+    "first",
+    "project"
+  ],
+  "author": "aprricod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprricod/react_task1_ex1_work/issues"
+  },
+  "homepage": "https://github.com/aprricod/react_task1_ex1_work#readme"
+}

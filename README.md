@@ -16,3 +16,17 @@ db -> app
 app -> client
 @enduml
 ```
+
+```plantuml
+@startuml
+Bob -> Alice : hello
+ALice -> Bob : you too!
+@enduml
+```
+
+```plantumlcode
+@startuml
+Bob -> Alice : hello
+ALice -> Bob : you too!
+@enduml
+```
